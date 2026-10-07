@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeromeyoo23
-- 👀 I’m interested in programming as I have an experience in C++, Java, Python, C, C#, Arduino, Unity Engine(As I also designed and developed Augmented Reality application) 
-- 🌱 I’m currently learning FrontEnd Web Development on Udemy online platform.
-- 💞️ I’m looking to collaborate on FrontEnd Web Developer to further enhance my skills and enhance one's work.
+- 👀 I’m interested in Cybersecurity and currently learning it step by step. 
+- 🌱 I’m currently learning Cybersecurity via Coursera online platform.
+- 💞️ I’m looking to collaborate on Cybersecurity projects and laboratory participation.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/jeromeobdianela or Gmail: jeromeobdianela23@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a curious learner. As of now I am willing to learn anything as long as it is related in the field of IT, computer science, and even the emerging AI aspects.
