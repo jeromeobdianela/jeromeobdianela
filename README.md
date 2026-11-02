@@ -50,7 +50,8 @@ I'm building a foundation in cybersecurity and programming, with a long-term goa
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 📧 [Email Me](mailto:jeromeobdianela23@gmail.com)
+- 📧
+  [![Email Me](https://shields.io)](mailto:jeromeobdianela23@gmail.com)
 
 ---
 
