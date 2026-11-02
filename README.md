@@ -9,9 +9,9 @@ I'm building a foundation in cybersecurity and programming, with a long-term goa
 ## 🎯 About Me
 
 - 🎓 Currently completing the **Google Cybersecurity Professional Certificate**
-- 🔍 Developing hands-on skills in network security, Linux, and SQL
-- 🐍 Learning Python and algorithm analysis
-- 🚀 Career goal: penetration testing / red team
+- 🔍 Developing hands-on skills in Network Security, Linux, and SQL
+- 🐍 Learning Python and Algorithm Analysis
+- 🚀 Career goal: Penetration Testing / Red team
 
 ---
 
@@ -19,9 +19,9 @@ I'm building a foundation in cybersecurity and programming, with a long-term goa
 
 | Area | Focus |
 |------|-------|
-| **Security Fundamentals** | Network security, traffic analysis (tcpdump) |
+| **Security Fundamentals** | Network security, traffic analysis (tcpdump, Wireshark) |
 | **Programming** | Python, algorithm analysis |
-| **Operating Systems** | Linux (in progress) |
+| **Operating Systems** | Kali Linux |
 | **Databases** | SQL (in progress) |
 | **Documentation** | Incident reports, security write-ups |
 
@@ -30,6 +30,7 @@ I'm building a foundation in cybersecurity and programming, with a long-term goa
 ## 📂 Featured Projects
 
 - 🧾 **Brute Force Incident Report**: A security incident report analyzing a tcpdump log from a simulated attack on a web server.
+- 👤 **Linux User Management Lab**: User Authentication Management, Group Management, File Ownership, Principle of the Least Privilege.
 
 *More projects coming soon as I complete my coursework.*
 
@@ -39,6 +40,7 @@ I'm building a foundation in cybersecurity and programming, with a long-term goa
 
 - Linux command line and file system navigation
 - Python scripting
+- SQL
 
 ---
 
