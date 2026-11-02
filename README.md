@@ -49,9 +49,8 @@ I'm building a foundation in cybersecurity and programming, with a long-term goa
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- [![LinkedIn](https://shields.io)](https://linkedin.com/in/your-linkedin)
-- 📧 jeromeobdianela23@gmail.com
+- 💼 Let's Connect! : https://linkedin.com/in/your-linkedin
+- 📧 Gmail Me : jeromeobdianela23@gmail.com
 
 ---
 
