@@ -32,15 +32,16 @@ I'm building a foundation in cybersecurity and programming, with a long-term goa
 - 👤 **Linux User Management Lab**: User Authentication Management, Group Management, File Ownership, Principle of the Least Privilege This includes Adding, Modifying, and Deleting users and Managing file ownership with useradd, usermod, userdel, and chown.
 - ✅ **Linux File Permissions**: Examining and updating file and directory permissions in Linux using chmod to enforce proper authorization.
 - 🏛️ **NIST-CSF ICMP Flood Incident Response**: Applying the NIST Cybersecurity Framework to respond to and recover from an ICMP flood DoS attack
-- 🧾 **Brute Force Incident Report**: A security incident report analyzing a tcpdump log from a simulated attack on a web server.
-- 🔒 **Security Risk Assessment Network Hardening Report**: Security risk assessment recommending network hardening tools and methods after a data breach
-  
+- 🔍 **SQL Filtering for Security Investigations**: Applying AND, OR, and NOT operators in SQL (MariaDB) to filter login activity and employee data for security investigations and system updates
+- 🔗 **SQL Joins Investigation**: Using INNER, LEFT, and RIGHT JOINs in MariaDB to combine tables and support a security investigation
+
 *More projects coming soon as I complete my coursework.*
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Continuously Learning
 
+- Kali Linux
 - SQL
 - SIEM
 - Python scripting
