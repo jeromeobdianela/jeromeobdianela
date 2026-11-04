@@ -24,7 +24,7 @@ I'm building a foundation in cybersecurity and programming, with a long-term goa
 | **Operating Systems and Distros** | Kali Linux |
 | **Databases** | SQL |
 | **Documentation** | Incident reports, security write-ups |
-<img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50" height="50" alt="Python" style="position: absolute; top: 20px; left: 50px;">
+<img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50" height="50" alt="Python" style="position: absolute; top: 50px; left: 50px;">
 
 ---
 
