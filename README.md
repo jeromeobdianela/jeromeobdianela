@@ -46,10 +46,6 @@ I'm building a foundation in cybersecurity and programming, with a long-term goa
 - SIEM
 - Python scripting
 
-- <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50" height="50" alt="Python">    <img src="https://hexmos.com/freedevtools/svg_icons/kalilinux/kalilinux-original.svg" width="50" height="50" alt="Kali">
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqEtKD-SuIhbRvQo3NVndUkt1j8_SLc5xpEOl3LD2bdvPs1kHkC2E7nOk&s=10" width="50" height="50" alt="SQL">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="50" height="50" alt="Wireshark">
-- <img src="https://image.pngaaa.com/559/5900559-middle.png" width="50" height="50" alt="SIEM">
 ---
 
 ## 📫 Connect With Me
