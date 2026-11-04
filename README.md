@@ -22,7 +22,7 @@ I'm building a foundation in cybersecurity and programming, with a long-term goa
 | **Security Fundamentals** | Network security, traffic analysis (tcpdump, Wireshark) |
 | **Programming** | Python, algorithm analysis |
 | **Operating Systems and Distros** | Kali Linux |
-| **Databases** | SQL (in progress) |
+| **Databases** | SQL |
 | **Documentation** | Incident reports, security write-ups |
 
 ---
